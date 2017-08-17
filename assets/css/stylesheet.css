@@ -1,0 +1,89 @@
+html,body {
+   margin:0;
+   padding:0;
+   height:100%;  
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#header {
+   padding:0px;
+}
+#body {
+     padding-top:60px;
+     margin-left:15%;
+     margin-right:15%;
+     padding-top:260px;   /* Height of the footer */
+}
+#footer {
+   position:absolute;
+   margin-top:266px;
+   width:100%;
+   height:50px;   /* Height of the footer */
+   background:red;
+}
+#custom-navbar {
+   border:0px solid;
+   border-radius:0px;
+}
+#navbar-items {
+   font-size:16px;
+}
+#brand-text{
+   font-size:30px;
+}
+.social-media-icon{
+widht:50px;
+height:50px;
+border: 1px solid;
+border-color:black;
+border-radius:50%;
+}
+.social-media-icon:hover{
+widht:50px;
+height:50px;
+border: 1px solid;
+border-color:black;
+border-radius:50%;
+opacity:0.7;
+}
+.latest-news-text{
+text-decoration:none;
+color:white;
+}
+.latest-news-text:hover{
+text-decoration:none;
+color:white;
+}
+.news-img{
+height:100px;
+width:100px;
+padding-top:5px;
+}
+.news-text{
+text-decoration:none;
+color:black;
+}
+.news-text:hover{
+text-decoration:none;
+color:#3498DB;
+}
+.news-heading{
+margin-left:10px;
+}
+.team-member-img{
+margin-top:10px;
+height:100px;
+width:100px;
+border:0.5px solid;
+border-radius:50%;
+}
+.facebook-link{
+text-decoration:none;
+color:black;
+}
+.facebook-link:hover{
+text-decoration:none;
+color:blue;
+}

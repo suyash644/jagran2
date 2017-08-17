@@ -1,0 +1,23 @@
+.jumbotro {
+   
+  background: url('../img/e7.jpg');
+  
+
+ background-size: cover;
+	color: white;
+    text-shadow: black 0.7em 0.7em 0.7em;
+}
+.btn
+{
+	margin-left:60px;
+	text-shadow:none;
+}
+.container-about
+{
+	padding-top:5%;
+	padding-left:5%;
+	padding-bottom:1%;
+	padding-right:5%;
+
+	
+}
